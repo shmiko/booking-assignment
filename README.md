@@ -61,7 +61,7 @@ in order to shrink the loading time of the site. The non-minified files are pres
 debugging. Also keeping the css properties of an object alphabetically makes easier for
 others developer to search for it in case of bug fixing and maintaining. Font icons were
 use for the facilities section, though a better soption would be SVG, but it takes time to
-define a sprite that justifies the performance and loading improvements. Buttons and other 
+create a sprite that justifies the performance and loading improvements. Buttons and other 
 styles were re-use to minify the css file size. Vanilla JavaScript was used for performance.
 
 
