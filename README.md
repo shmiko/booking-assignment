@@ -70,11 +70,14 @@ styles were re-use to minify the css file size. Vanilla JavaScript was used for 
 This site can be downloaded and run instantly. Some browsers need a localhost server to allow 
 ajax calls. A simple way to achieve this is to have python installed and run:
 __python -m SimpleHTTPServer ####__ where #### is a four digit port number.
-Sadly I didn't got time to test this site in Internet Explorer, though I'm aware of the
+
+Sadly I didn't have time to test this site in Internet Explorer, though I'm aware of the
 compromises of cross-browsing. In fact various polyfills and shims created by myself are used 
 in this exercise. Also a rAF polyfill is included for older browsers, but take advantage of
 requestAnimationFrame performance on the new ones. requestAnimationFrame is used to achieve 
 the automatic slide on the carousel.
 
 #### Thanks for your time!
+
+Jeremias Menichelli
 
