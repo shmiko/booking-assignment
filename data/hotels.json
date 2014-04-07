@@ -1,0 +1,24 @@
+{
+	"Hotels" : [
+		{	"name" : "Timhotel Tour Eiffel",
+			"stars" : 2,
+			"address" : "11 Rue Juge, 75015 Paris, France",
+			"url" : "http://www.timhotel.com"
+		},
+		{	"name" : "Le Dauphin",
+			"stars" : 3,
+			"address" : "45 Rue Jean Jaurès, 92800 Puteaux, France",
+			"url" : "http://www.paris-hotel-dauphin.com"
+		},
+		{	"name" : "Hotel Grand Intercontinental Paris",
+			"stars" : 4,
+			"address" : "11 Rue Juge, 75015 Paris, France",
+			"url" : "http://www.intercontinental.com"
+		},
+		{	"name" : "Park Hyatt Paris - Vendome",
+			"stars" : 5,
+			"address" : "5 Rue de la Paix, 75002 Paris, France",
+			"url" : "http://www.hyatt.com"
+		}
+	]
+}

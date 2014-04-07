@@ -1,0 +1,24 @@
+{
+	"Landmarks" : [
+		{	"name" : "The Eiffel Tower",
+			"imgURL" : "img/1_landmark.jpg",
+			"description" : ", an iron lattice tower located on the Champ de Mars in Paris. It was named after the engineer Gustave Eiffel, whose company designed and built the tower. Erected in 1889 as the entrance arch to the 1889 World's Fair, it was initially criticised by some of France's leading artists and intellectuals for its design, but has become both a global cultural icon of France and one of the most recognizable structures in the world." 
+		},
+		{	"name" : "The Louvre",
+			"imgURL" : "img/2_landmark.jpg",
+			"description" : ", one of the world's largest museums and a historic monument. A central landmark of Paris, France, it is located on the Right Bank of the Seine in the 1st arrondissement (district). Nearly 35,000 objects from prehistory to the 21st century are exhibited over an area of 60,600 square metres (652,300 square feet). With more than 9.7 million visitors each year, the Louvre is the world's most visited museum." 
+		},
+		{	"name" : "Arc de Triomphe",
+			"imgURL" : "img/3_landmark.jpg",
+			"description" : ", one of the most famous monuments in Paris. It stands in the centre of the Place Charles de Gaulle (originally named Place de l'Étoile), at the western end of the Champs-Élysées. It should not be confused with a smaller arch, the Arc de Triomphe du Carrousel, which stands west of the Louvre. The Arc de Triomphe (in English: 'Triumphal Arch') honours those who fought and died for France in the French Revolutionary and the Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. Beneath its vault lies the Tomb of the Unknown Soldier from World War I." 
+		},
+		{	"name" : "Notre Dame de Paris",
+			"imgURL" : "img/4_landmark.jpg",
+			"description" : ", also known as Notre-Dame Cathedral or simply Notre-Dame, is a historic Catholic cathedral on the eastern half of the Île de la Cité in the fourth arrondissement of Paris, France. The cathedral is widely considered to be one of the finest examples of French Gothic architecture and among the largest and most well-known church buildings in the world. The naturalism of its sculptures and stained glass are in contrast with earlier Romanesque architecture." 
+		},
+		{	"name" : "Sainte-Chapelle",
+			"imgURL" : "img/5_landmark.jpg",
+			"description" : ", a royal medieval Gothic chapel, located near the Palais de la Cité, on the Île de la Cité in the heart of Paris, France. Begun some time after 1239 and consecrated on 26 April 1248, the Sainte-Chapelle is considered among the highest achievements of the Rayonnant period of Gothic architecture. Its erection was commissioned by King Louis IX of France to house his collection of Passion Relics, including Christ's Crown of Thorns - one of the most important relics in medieval Christendom." 
+		}
+	]
+}
